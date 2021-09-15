@@ -1,0 +1,7 @@
+S:\ifsp\ifsp2021\ED1I4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+S:\ifsp\ifsp2021\ED1I4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+S:\ifsp\ifsp2021\ED1I4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+S:\ifsp\ifsp2021\ED1I4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+S:\ifsp\ifsp2021\ED1I4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+S:\ifsp\ifsp2021\ED1I4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+S:\ifsp\ifsp2021\ED1I4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
