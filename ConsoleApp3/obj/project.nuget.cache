@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MALL5EvwIe/BFA6hndEQn9nj8BI4yRqXdwQ1q8witzrEBlg6TZp48WYRu+ArmFf4ZFxWpZi6uoSNZfXREc718g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Halis\\source\\repos\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Halis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}
