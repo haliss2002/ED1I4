@@ -1,0 +1,7 @@
+C:\Users\Halis\source\repos\projetoLista1\projetoLista1\bin\Debug\projetoLista1.exe.config
+C:\Users\Halis\source\repos\projetoLista1\projetoLista1\bin\Debug\projetoLista1.exe
+C:\Users\Halis\source\repos\projetoLista1\projetoLista1\bin\Debug\projetoLista1.pdb
+C:\Users\Halis\source\repos\projetoLista1\projetoLista1\obj\Debug\projetoLista1.csprojAssemblyReference.cache
+C:\Users\Halis\source\repos\projetoLista1\projetoLista1\obj\Debug\projetoLista1.csproj.CoreCompileInputs.cache
+C:\Users\Halis\source\repos\projetoLista1\projetoLista1\obj\Debug\projetoLista1.exe
+C:\Users\Halis\source\repos\projetoLista1\projetoLista1\obj\Debug\projetoLista1.pdb
