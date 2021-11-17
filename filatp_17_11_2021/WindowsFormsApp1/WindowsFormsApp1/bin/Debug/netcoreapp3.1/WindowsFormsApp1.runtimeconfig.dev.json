@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Halis\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Halis\\.nuget\\packages"
+    ]
+  }
+}
